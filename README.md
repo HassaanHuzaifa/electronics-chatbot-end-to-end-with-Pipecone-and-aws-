@@ -1,5 +1,6 @@
-# electronics-chatbot-end-to-end-with-Pipecone-and-aws-
-.
+# Build-a-Complete-Electronis-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+
+
 # How to run?
 ### STEPS:
 
